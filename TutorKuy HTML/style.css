@@ -1,0 +1,177 @@
+    #example-search-input::placeholder {
+        color: #0085FF;
+    }
+    
+    .fa {
+        color: #0085FF;
+    }
+    
+    .width-35 {
+        width: 35vw;
+    }
+    
+    .profile-pic {
+        overflow: hidden;
+        background-color: red;
+    }
+    
+    #profile-desc {
+        overflow: hidden;
+        color: #0085FF;
+        font-weight: bold;
+    }
+    
+    .overhidden {
+        overflow: hidden;
+    }
+    
+    .link {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .link:hover {
+        color: rgb(46, 132, 145);
+    }
+    
+    .fa-star {
+        color: black;
+    }
+    
+    .checked {
+        color: orange;
+    }
+    
+    .bg-purple {
+        background-color: purple;
+    }
+    
+    .bg-opacity-purple {
+        background-color: rgba(128, 0, 128, 0.222);
+    }
+    
+    .link-purple:hover {
+        color: purple;
+    }
+    
+    .link-buy-color {
+        color: black;
+    }
+    
+    .bg-pink {
+        background-color: rgb(220, 156, 189);
+    }
+    
+    .bg-opacity-pink {
+        background-color: rgba(220, 156, 189, 0.548);
+    }
+    
+    .link-pink:hover {
+        color: rgb(220, 156, 189);
+    }
+    
+    .bg-yellow {
+        background-color: rgb(200, 200, 131);
+    }
+    
+    .bg-opacity-yellow {
+        background-color: rgba(200, 200, 131, 0.47);
+    }
+    
+    .link-yellow:hover {
+        color: rgb(200, 200, 131);
+    }
+    
+    .bg-red {
+        background-color: rgb(228, 60, 60);
+    }
+    
+    .bg-opacity-red {
+        background-color: rgba(228, 60, 60, 0.493);
+    }
+    
+    .link-red:hover {
+        color: rgb(228, 60, 60);
+    }
+    
+    .bg-blue {
+        background-color: rgb(70, 215, 215);
+    }
+    
+    .bg-opacity-blue {
+        background-color: rgba(70, 215, 215, 0.541);
+    }
+    
+    .link-blue:hover {
+        color: rgb(70, 215, 215);
+    }
+    
+    .bg-black {
+        background-color: black;
+    }
+    
+    .bg-opacity-black {
+        background-color: rgba(128, 128, 128, 0.476);
+    }
+    
+    .link-black:hover {
+        color: rgb(255, 244, 86);
+    }
+    
+    footer {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .bg-gray {
+        background-color: rgb(237, 237, 237);
+    }
+    
+    .detail-banner-img {
+        width: 35vw;
+        height: 40vh;
+        min-width: 35vw;
+        min-height: 40vh;
+    }
+    
+    .bg-main {
+        background-color: #abcff1eb;
+    }
+    
+    .bg-opacity-main {
+        background-color: #0085FF;
+        color: white;
+    }
+    
+    #btn-coba-pelajari {
+        background-color: rgb(0, 136, 255);
+        width: 30%;
+    }
+    
+    #btn-coba-pelajari:hover {
+        border-color: black;
+    }
+    
+    #schedule td,
+    #schedule th {
+        border-top: 1em solid #abcff1eb;
+        border-bottom: 1em solid #abcff1eb;
+        border-left: 1em solid #abcff1eb;
+        border-right: 1em solid #abcff1eb;
+        padding: 0.5em;
+    }
+    
+    #schedule thead tr th,
+    #schedule tbody tr td {
+        width: 10px;
+    }
+    
+    .table-width {
+        width: 94vw;
+    }
+    /* table,
+    tr,
+    th,
+    td {
+        border: 1em solid #abcff1eb;
+    } */
